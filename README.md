@@ -1,8 +1,8 @@
 <!-- Intro  -->
 <h1 align="center">
-        <samp>&gt;Hey There!👋 I am
-        <b><a target="_blank" href="https://github.com/Naman-Gupta-06">Naman Gupta </a></b>
-        </samp>
+  <a href="https://github.com/Naman-Gupta-06">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23D613F7&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Naman+Gupta....;Nice+to+meet+you!">
+  </a>
 </h1>
 
 <h3 align="center">
