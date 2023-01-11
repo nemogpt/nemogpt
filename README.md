@@ -1,4 +1,6 @@
 <!-- Intro  -->
+
+<h1 align="center">Welcome... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h1 align="center">
   <a href="https://github.com/Naman-Gupta-06">
     <img src="https://readme-typing-svg.herokuapp.com?color=%#abdbe3&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Naman+Gupta....;Nice+to+meet+you!">
