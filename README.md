@@ -9,7 +9,7 @@
 
 <h3 align="center">
         <samp>
-       「 I am a pre-final year student developer & designer 」
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
        </samp>
 </h3>
 <p align="center"> 
