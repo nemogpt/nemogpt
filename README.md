@@ -3,13 +3,13 @@
 <h1 align="center">Welcome... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h1 align="center">
   <a href="https://github.com/Naman-Gupta-06">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23D613F7&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Naman+Gupta....;Nice+to+meet+you!">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Naman+Gupta....;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
   </a>
 </h1>
 
 <h3 align="center">
         <samp>
-           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+           
        </samp>
 </h3>
 <p align="center"> 
