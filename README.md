@@ -22,8 +22,8 @@
 <!-- ### Connect with me: -->
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronitkhatri44@gmail.com)](mailto:namangupta990@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-gupta-nemo/)](https://www.linkedin.com/in/naman-gupta-nemo/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ronitxx9/)](https://www.instagram.com/nemo_.06/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-gupta-nemo/)](https://www.linkedin.com/in/nemogpt/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ronitxx9/)](https://www.instagram.com/_nemo.gupta_/)
 
 <!-- <br /> -->
 
